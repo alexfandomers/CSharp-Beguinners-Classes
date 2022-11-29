@@ -1,0 +1,15 @@
+C:\C#\ClassBeginners\bin\Debug\net6.0\ClassBeginners.exe
+C:\C#\ClassBeginners\bin\Debug\net6.0\ClassBeginners.deps.json
+C:\C#\ClassBeginners\bin\Debug\net6.0\ClassBeginners.runtimeconfig.json
+C:\C#\ClassBeginners\bin\Debug\net6.0\ClassBeginners.dll
+C:\C#\ClassBeginners\bin\Debug\net6.0\ClassBeginners.pdb
+C:\C#\ClassBeginners\obj\Debug\net6.0\ClassBeginners.csproj.AssemblyReference.cache
+C:\C#\ClassBeginners\obj\Debug\net6.0\ClassBeginners.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ClassBeginners\obj\Debug\net6.0\ClassBeginners.AssemblyInfoInputs.cache
+C:\C#\ClassBeginners\obj\Debug\net6.0\ClassBeginners.AssemblyInfo.cs
+C:\C#\ClassBeginners\obj\Debug\net6.0\ClassBeginners.csproj.CoreCompileInputs.cache
+C:\C#\ClassBeginners\obj\Debug\net6.0\ClassBeginners.dll
+C:\C#\ClassBeginners\obj\Debug\net6.0\refint\ClassBeginners.dll
+C:\C#\ClassBeginners\obj\Debug\net6.0\ClassBeginners.pdb
+C:\C#\ClassBeginners\obj\Debug\net6.0\ClassBeginners.genruntimeconfig.cache
+C:\C#\ClassBeginners\obj\Debug\net6.0\ref\ClassBeginners.dll
